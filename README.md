@@ -1,7 +1,8 @@
 Simple Express Practice
 
 --Routes:
-      -- Ping
+
+    -- Ping
         GET `/ping/`
             returns "pong"
     -- Chuck
@@ -17,3 +18,4 @@ Simple Express Practice
             returns (single Num query) + 7
         POST `/math/subtract`
             returns (single Num query) - 7
+
